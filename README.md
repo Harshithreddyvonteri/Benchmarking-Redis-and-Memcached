@@ -24,5 +24,4 @@ matplotlib, numpy, os, pandas, tqdm, sys, redis, pymemcache
 5. Note: Don't remove ``logs/dump`` directory. It stores intermediate files during executions.
 
 ## References:
-1. [Memtier-Benchmark](https://github.com/RedisLabs 
-memtier_benchmark)
+1. [Memtier-Benchmark](https://github.com/RedisLabs/memtier_benchmark)
