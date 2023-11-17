@@ -5,7 +5,7 @@ This repository contains code for various experiments used to benchmark Redis an
 1. **src:** This directory contains the source code to run the experiments.
 2. **logs:** The logs of execution will be stored here. A new run-id will be created for each run and the logs will be stored in the corresponsing directory.
 3. **outputs:** All the plots and summary files are saved in this folder under the corresponding run-id of the execution.
-4. **bin:** This folder contains the memtier-benchmarch binary used for performing experiments. Note that we changed the source code of memtier-benchmark. The modified source code of memter-benchmark can be found [todo]().
+4. **bin:** This folder contains the memtier-benchmarch binary used for performing experiments. Note that we changed the source code of memtier-benchmark. The modified source code of memtier-benchmark can be found [todo]().
 5. **assets:** This folder contains the configuration files of different persistance models of redis. These are used to evaluate the overhead of various persistance models.
 
 ## Requirements:
